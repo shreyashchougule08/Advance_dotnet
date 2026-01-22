@@ -1,0 +1,46 @@
+1 solid principal ?
+( s-single responsibility principal
+ o- open / close principal
+ l - lisko subsututional 
+i - interface segregation principal these stand for
+d- dependence inversion principal
+ -->
+maintain code 
+object oriented base principal
+resuseable for
+clean code
+-------------------------------------------------
+
+single responce principal - (one class works on one at a  time)
+ Normal code - 
+class student {
+  public void savestudent()
+ {
+
+ }
+public void printstudent()
+ {
+ }
+}
+
+------------------------------------------------------------------
+1 . S-single responsibility principal
+single response code -
+class student {
+
+  public string name{get,set}
+
+}
+
+class studentRespository{
+  public void save(student student)
+
+}
+--------------------------------------------------------------------
+2 .  o- open / close principal
+open - class should be open for extension but close for modification (in no any change code you directly add features)
+
+
+
+
+

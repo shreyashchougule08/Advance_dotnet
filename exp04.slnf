@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\exp04\\exp04.slnx",
+    "projects": [
+      "exp04\\exp04.csproj"
+    ]
+  }
+}

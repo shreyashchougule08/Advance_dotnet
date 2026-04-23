@@ -1,0 +1,5 @@
+﻿Build started at 15:19...
+1>------ Build started: Project: exp05, Configuration: Debug Any CPU ------
+1>  exp05 -> C:\Users\shrey\source\repos\exp05\exp05\bin\Debug\exp05.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 15:19 and took 00.731 seconds ==========
